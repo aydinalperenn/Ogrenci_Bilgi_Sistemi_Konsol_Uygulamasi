@@ -1,0 +1,4 @@
+		Isim		 Soyisim	  Ogrenci No	      Telefon No			       Mail	
+             Alperen               Aydin           123456789          5555555555           alperenaydin@alperen.com
+               Aydin             Alperen           987654321          5554444444             aydinalperen@aydin.com
+                  Ay                   G           456789123          5549876543                 aysegunes@ayse.com
