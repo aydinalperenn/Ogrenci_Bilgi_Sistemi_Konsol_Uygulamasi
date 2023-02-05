@@ -3,4 +3,4 @@
 
 Girilen bilgileri .txt dosyasının içerisine kaydeden bir konsol uygulaması olan Öğrenci Bilgi Sistemi.
 
-Projenim Sunumu: https://www.youtube.com/watch?v=VRwPIzix--c
+Projenin Sunumu: https://www.youtube.com/watch?v=VRwPIzix--c
